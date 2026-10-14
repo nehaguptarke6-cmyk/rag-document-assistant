@@ -1,0 +1,20 @@
+
+Artificial Intelligence Basics
+
+Artificial Intelligence (AI) is a branch of computer science
+that focuses on creating systems capable of performing tasks
+that normally require human intelligence.
+
+Machine Learning (ML) is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data.
+
+Deep Learning is a subset of Machine Learning.
+It uses neural networks with multiple layers.
+
+Natural Language Processing (NLP) helps computers process,
+understand, and generate human language.
+
+Retrieval-Augmented Generation (RAG) combines information
+retrieval with language model generation. It retrieves
+relevant information from documents and uses that information
+to answer user questions.
