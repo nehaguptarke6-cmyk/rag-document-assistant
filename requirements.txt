@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+pypdf
+sentence-transformers
+torch
+llama-index-core
+llama-index-embeddings-huggingface
+langchain-core
+langchain-groq
+groq
